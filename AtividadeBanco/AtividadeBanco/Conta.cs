@@ -6,14 +6,38 @@ namespace AtividadeBanco
 {
     class Conta
     {
-        public string Nome;
-        public int Idade;
+        private int Idade;
+        public string Nome { get; set; }     
         public double Saldo;
         public int NumeroConta;
 
+        /*
+         * Uma forma de se declarar get e set quando se tem uma regra 
+         * de negocio
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                _nome = value;
+            }
+        }*/
+        /*
+         * exemplo de implementação dos metodos get e set "padrã java"
+                public string GetNome()
+                {
+                    return _nome;
+                }
+
+                public string SetNome(string nome)
+                {
+                   return _nome = nome;
+                }
+        */
         public void Saque(double saque)
         {
-            if(Saldo >= saque) {
+            if (Saldo >= saque)
+            {
                 Saldo = Saldo - saque;
             }
             else

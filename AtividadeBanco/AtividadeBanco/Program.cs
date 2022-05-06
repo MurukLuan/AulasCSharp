@@ -10,6 +10,13 @@ namespace AtividadeBanco
 
             Console.WriteLine("Entre com o nome: ");
             conta.Nome = Console.ReadLine();
+            
+            Console.WriteLine(conta.Nome);
+
+            /*conta.SetNome(nome);
+            conta.GetNome();
+            modo de acesso com os get e set
+             */
 
             Console.WriteLine("Entre com o numero da conta: ");
             conta.NumeroConta = int.Parse(Console.ReadLine());
