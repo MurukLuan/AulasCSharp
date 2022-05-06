@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\bin\Debug\netcoreapp3.1\RevisaoAlgoritmos.exe
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\bin\Debug\netcoreapp3.1\RevisaoAlgoritmos.deps.json
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\bin\Debug\netcoreapp3.1\RevisaoAlgoritmos.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\bin\Debug\netcoreapp3.1\RevisaoAlgoritmos.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\bin\Debug\netcoreapp3.1\RevisaoAlgoritmos.dll
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\bin\Debug\netcoreapp3.1\RevisaoAlgoritmos.pdb
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\obj\Debug\netcoreapp3.1\RevisaoAlgoritmos.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\obj\Debug\netcoreapp3.1\RevisaoAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\obj\Debug\netcoreapp3.1\RevisaoAlgoritmos.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\obj\Debug\netcoreapp3.1\RevisaoAlgoritmos.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\obj\Debug\netcoreapp3.1\RevisaoAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\obj\Debug\netcoreapp3.1\RevisaoAlgoritmos.dll
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\obj\Debug\netcoreapp3.1\RevisaoAlgoritmos.pdb
+C:\Users\Luan Muruk\source\repos\RevisaoAlgoritmos\RevisaoAlgoritmos\obj\Debug\netcoreapp3.1\RevisaoAlgoritmos.genruntimeconfig.cache

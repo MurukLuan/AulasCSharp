@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\bin\Debug\netcoreapp3.1\Raiz.exe
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\bin\Debug\netcoreapp3.1\Raiz.deps.json
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\bin\Debug\netcoreapp3.1\Raiz.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\bin\Debug\netcoreapp3.1\Raiz.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\bin\Debug\netcoreapp3.1\Raiz.dll
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\bin\Debug\netcoreapp3.1\Raiz.pdb
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\obj\Debug\netcoreapp3.1\Raiz.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\obj\Debug\netcoreapp3.1\Raiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\obj\Debug\netcoreapp3.1\Raiz.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\obj\Debug\netcoreapp3.1\Raiz.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\obj\Debug\netcoreapp3.1\Raiz.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\obj\Debug\netcoreapp3.1\Raiz.dll
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\obj\Debug\netcoreapp3.1\Raiz.pdb
+C:\Users\Luan Muruk\source\repos\Raiz\Raiz\obj\Debug\netcoreapp3.1\Raiz.genruntimeconfig.cache

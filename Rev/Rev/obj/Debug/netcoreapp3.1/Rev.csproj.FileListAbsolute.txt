@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\Rev\Rev\bin\Debug\netcoreapp3.1\Rev.exe
+C:\Users\Luan Muruk\source\repos\Rev\Rev\bin\Debug\netcoreapp3.1\Rev.deps.json
+C:\Users\Luan Muruk\source\repos\Rev\Rev\bin\Debug\netcoreapp3.1\Rev.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\Rev\Rev\bin\Debug\netcoreapp3.1\Rev.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\Rev\Rev\bin\Debug\netcoreapp3.1\Rev.dll
+C:\Users\Luan Muruk\source\repos\Rev\Rev\bin\Debug\netcoreapp3.1\Rev.pdb
+C:\Users\Luan Muruk\source\repos\Rev\Rev\obj\Debug\netcoreapp3.1\Rev.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\Rev\Rev\obj\Debug\netcoreapp3.1\Rev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\Rev\Rev\obj\Debug\netcoreapp3.1\Rev.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\Rev\Rev\obj\Debug\netcoreapp3.1\Rev.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\Rev\Rev\obj\Debug\netcoreapp3.1\Rev.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\Rev\Rev\obj\Debug\netcoreapp3.1\Rev.dll
+C:\Users\Luan Muruk\source\repos\Rev\Rev\obj\Debug\netcoreapp3.1\Rev.pdb
+C:\Users\Luan Muruk\source\repos\Rev\Rev\obj\Debug\netcoreapp3.1\Rev.genruntimeconfig.cache

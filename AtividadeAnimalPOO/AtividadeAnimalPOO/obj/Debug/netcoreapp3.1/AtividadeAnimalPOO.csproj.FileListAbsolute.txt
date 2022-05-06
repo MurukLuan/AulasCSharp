@@ -1,0 +1,13 @@
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\bin\Debug\netcoreapp3.1\AtividadeAnimalPOO.exe
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\bin\Debug\netcoreapp3.1\AtividadeAnimalPOO.deps.json
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\bin\Debug\netcoreapp3.1\AtividadeAnimalPOO.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\bin\Debug\netcoreapp3.1\AtividadeAnimalPOO.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\bin\Debug\netcoreapp3.1\AtividadeAnimalPOO.dll
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\bin\Debug\netcoreapp3.1\AtividadeAnimalPOO.pdb
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\obj\Debug\netcoreapp3.1\AtividadeAnimalPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\obj\Debug\netcoreapp3.1\AtividadeAnimalPOO.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\obj\Debug\netcoreapp3.1\AtividadeAnimalPOO.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\obj\Debug\netcoreapp3.1\AtividadeAnimalPOO.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\obj\Debug\netcoreapp3.1\AtividadeAnimalPOO.dll
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\obj\Debug\netcoreapp3.1\AtividadeAnimalPOO.pdb
+C:\Users\Luan Muruk\source\repos\AtividadeAnimalPOO\AtividadeAnimalPOO\obj\Debug\netcoreapp3.1\AtividadeAnimalPOO.genruntimeconfig.cache

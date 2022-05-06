@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\Luan Muruk\source\repos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache

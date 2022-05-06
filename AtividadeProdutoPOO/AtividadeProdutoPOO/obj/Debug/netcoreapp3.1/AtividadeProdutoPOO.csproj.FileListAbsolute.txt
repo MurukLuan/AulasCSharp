@@ -1,0 +1,13 @@
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\bin\Debug\netcoreapp3.1\AtividadeProdutoPOO.exe
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\bin\Debug\netcoreapp3.1\AtividadeProdutoPOO.deps.json
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\bin\Debug\netcoreapp3.1\AtividadeProdutoPOO.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\bin\Debug\netcoreapp3.1\AtividadeProdutoPOO.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\bin\Debug\netcoreapp3.1\AtividadeProdutoPOO.dll
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\bin\Debug\netcoreapp3.1\AtividadeProdutoPOO.pdb
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\obj\Debug\netcoreapp3.1\AtividadeProdutoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\obj\Debug\netcoreapp3.1\AtividadeProdutoPOO.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\obj\Debug\netcoreapp3.1\AtividadeProdutoPOO.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\obj\Debug\netcoreapp3.1\AtividadeProdutoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\obj\Debug\netcoreapp3.1\AtividadeProdutoPOO.dll
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\obj\Debug\netcoreapp3.1\AtividadeProdutoPOO.pdb
+C:\Users\Luan Muruk\source\repos\AtividadeProdutoPOO\AtividadeProdutoPOO\obj\Debug\netcoreapp3.1\AtividadeProdutoPOO.genruntimeconfig.cache

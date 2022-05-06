@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\bin\Debug\netcoreapp3.1\IntroducaoOO.exe
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\bin\Debug\netcoreapp3.1\IntroducaoOO.deps.json
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\bin\Debug\netcoreapp3.1\IntroducaoOO.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\bin\Debug\netcoreapp3.1\IntroducaoOO.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\bin\Debug\netcoreapp3.1\IntroducaoOO.dll
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\bin\Debug\netcoreapp3.1\IntroducaoOO.pdb
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\obj\Debug\netcoreapp3.1\IntroducaoOO.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\obj\Debug\netcoreapp3.1\IntroducaoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\obj\Debug\netcoreapp3.1\IntroducaoOO.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\obj\Debug\netcoreapp3.1\IntroducaoOO.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\obj\Debug\netcoreapp3.1\IntroducaoOO.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\obj\Debug\netcoreapp3.1\IntroducaoOO.dll
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\obj\Debug\netcoreapp3.1\IntroducaoOO.pdb
+C:\Users\Luan Muruk\source\repos\IntroducaoOO\IntroducaoOO\obj\Debug\netcoreapp3.1\IntroducaoOO.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\netcoreapp3.1\AtividadeCalculadora.exe
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\netcoreapp3.1\AtividadeCalculadora.deps.json
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\netcoreapp3.1\AtividadeCalculadora.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\netcoreapp3.1\AtividadeCalculadora.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\netcoreapp3.1\AtividadeCalculadora.dll
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\netcoreapp3.1\AtividadeCalculadora.pdb
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\netcoreapp3.1\AtividadeCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\netcoreapp3.1\AtividadeCalculadora.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\netcoreapp3.1\AtividadeCalculadora.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\netcoreapp3.1\AtividadeCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\netcoreapp3.1\AtividadeCalculadora.dll
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\netcoreapp3.1\AtividadeCalculadora.pdb
+C:\Users\Luan Muruk\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\netcoreapp3.1\AtividadeCalculadora.genruntimeconfig.cache

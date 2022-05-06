@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\bin\Debug\netcoreapp3.1\AtividadeJogoDados.exe
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\bin\Debug\netcoreapp3.1\AtividadeJogoDados.deps.json
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\bin\Debug\netcoreapp3.1\AtividadeJogoDados.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\bin\Debug\netcoreapp3.1\AtividadeJogoDados.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\bin\Debug\netcoreapp3.1\AtividadeJogoDados.dll
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\bin\Debug\netcoreapp3.1\AtividadeJogoDados.pdb
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\obj\Debug\netcoreapp3.1\AtividadeJogoDados.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\obj\Debug\netcoreapp3.1\AtividadeJogoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\obj\Debug\netcoreapp3.1\AtividadeJogoDados.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\obj\Debug\netcoreapp3.1\AtividadeJogoDados.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\obj\Debug\netcoreapp3.1\AtividadeJogoDados.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\obj\Debug\netcoreapp3.1\AtividadeJogoDados.dll
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\obj\Debug\netcoreapp3.1\AtividadeJogoDados.pdb
+C:\Users\Luan Muruk\source\repos\AtividadeJogoDados\AtividadeJogoDados\obj\Debug\netcoreapp3.1\AtividadeJogoDados.genruntimeconfig.cache

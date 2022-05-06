@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\bin\Debug\netcoreapp3.1\IntroducaoConstrutores.exe
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\bin\Debug\netcoreapp3.1\IntroducaoConstrutores.deps.json
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\bin\Debug\netcoreapp3.1\IntroducaoConstrutores.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\bin\Debug\netcoreapp3.1\IntroducaoConstrutores.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\bin\Debug\netcoreapp3.1\IntroducaoConstrutores.dll
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\bin\Debug\netcoreapp3.1\IntroducaoConstrutores.pdb
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\obj\Debug\netcoreapp3.1\IntroducaoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\obj\Debug\netcoreapp3.1\IntroducaoConstrutores.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\obj\Debug\netcoreapp3.1\IntroducaoConstrutores.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\obj\Debug\netcoreapp3.1\IntroducaoConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\obj\Debug\netcoreapp3.1\IntroducaoConstrutores.dll
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\obj\Debug\netcoreapp3.1\IntroducaoConstrutores.pdb
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\obj\Debug\netcoreapp3.1\IntroducaoConstrutores.genruntimeconfig.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoConstrutores\IntroducaoConstrutores\obj\Debug\netcoreapp3.1\IntroducaoConstrutores.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\bin\Debug\netcoreapp3.1\Atividades-13-04.exe
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\bin\Debug\netcoreapp3.1\Atividades-13-04.deps.json
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\bin\Debug\netcoreapp3.1\Atividades-13-04.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\bin\Debug\netcoreapp3.1\Atividades-13-04.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\bin\Debug\netcoreapp3.1\Atividades-13-04.dll
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\bin\Debug\netcoreapp3.1\Atividades-13-04.pdb
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\obj\Debug\netcoreapp3.1\Atividades-13-04.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\obj\Debug\netcoreapp3.1\Atividades-13-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\obj\Debug\netcoreapp3.1\Atividades-13-04.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\obj\Debug\netcoreapp3.1\Atividades-13-04.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\obj\Debug\netcoreapp3.1\Atividades-13-04.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\obj\Debug\netcoreapp3.1\Atividades-13-04.dll
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\obj\Debug\netcoreapp3.1\Atividades-13-04.pdb
+C:\Users\Luan Muruk\source\repos\Atividades-13-04\Atividades-13-04\obj\Debug\netcoreapp3.1\Atividades-13-04.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\bin\Debug\netcoreapp3.1\AtividadePessoaPOO.exe
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\bin\Debug\netcoreapp3.1\AtividadePessoaPOO.deps.json
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\bin\Debug\netcoreapp3.1\AtividadePessoaPOO.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\bin\Debug\netcoreapp3.1\AtividadePessoaPOO.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\bin\Debug\netcoreapp3.1\AtividadePessoaPOO.dll
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\bin\Debug\netcoreapp3.1\AtividadePessoaPOO.pdb
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\obj\Debug\netcoreapp3.1\AtividadePessoaPOO.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\obj\Debug\netcoreapp3.1\AtividadePessoaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\obj\Debug\netcoreapp3.1\AtividadePessoaPOO.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\obj\Debug\netcoreapp3.1\AtividadePessoaPOO.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\obj\Debug\netcoreapp3.1\AtividadePessoaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\obj\Debug\netcoreapp3.1\AtividadePessoaPOO.dll
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\obj\Debug\netcoreapp3.1\AtividadePessoaPOO.pdb
+C:\Users\Luan Muruk\source\repos\AtividadePessoaPOO\AtividadePessoaPOO\obj\Debug\netcoreapp3.1\AtividadePessoaPOO.genruntimeconfig.cache

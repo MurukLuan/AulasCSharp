@@ -1,0 +1,13 @@
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\bin\Debug\netcoreapp3.1\CalcularAreaTriangulo.exe
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\bin\Debug\netcoreapp3.1\CalcularAreaTriangulo.deps.json
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\bin\Debug\netcoreapp3.1\CalcularAreaTriangulo.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\bin\Debug\netcoreapp3.1\CalcularAreaTriangulo.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\bin\Debug\netcoreapp3.1\CalcularAreaTriangulo.dll
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\bin\Debug\netcoreapp3.1\CalcularAreaTriangulo.pdb
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\obj\Debug\netcoreapp3.1\CalcularAreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\obj\Debug\netcoreapp3.1\CalcularAreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\obj\Debug\netcoreapp3.1\CalcularAreaTriangulo.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\obj\Debug\netcoreapp3.1\CalcularAreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\obj\Debug\netcoreapp3.1\CalcularAreaTriangulo.dll
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\obj\Debug\netcoreapp3.1\CalcularAreaTriangulo.pdb
+C:\Users\Luan Muruk\source\repos\CalcularAreaTriangulo\CalcularAreaTriangulo\obj\Debug\netcoreapp3.1\CalcularAreaTriangulo.genruntimeconfig.cache

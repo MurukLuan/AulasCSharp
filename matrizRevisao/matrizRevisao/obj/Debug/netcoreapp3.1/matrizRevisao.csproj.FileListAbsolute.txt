@@ -1,0 +1,13 @@
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\bin\Debug\netcoreapp3.1\matrizRevisao.exe
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\bin\Debug\netcoreapp3.1\matrizRevisao.deps.json
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\bin\Debug\netcoreapp3.1\matrizRevisao.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\bin\Debug\netcoreapp3.1\matrizRevisao.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\bin\Debug\netcoreapp3.1\matrizRevisao.dll
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\bin\Debug\netcoreapp3.1\matrizRevisao.pdb
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\obj\Debug\netcoreapp3.1\matrizRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\obj\Debug\netcoreapp3.1\matrizRevisao.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\obj\Debug\netcoreapp3.1\matrizRevisao.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\obj\Debug\netcoreapp3.1\matrizRevisao.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\obj\Debug\netcoreapp3.1\matrizRevisao.dll
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\obj\Debug\netcoreapp3.1\matrizRevisao.pdb
+C:\Users\Luan Muruk\source\repos\matrizRevisao\matrizRevisao\obj\Debug\netcoreapp3.1\matrizRevisao.genruntimeconfig.cache
