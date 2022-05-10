@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\bin\Debug\netcoreapp3.1\ExercicioPropertiesBanco.exe
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\bin\Debug\netcoreapp3.1\ExercicioPropertiesBanco.deps.json
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\bin\Debug\netcoreapp3.1\ExercicioPropertiesBanco.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\bin\Debug\netcoreapp3.1\ExercicioPropertiesBanco.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\bin\Debug\netcoreapp3.1\ExercicioPropertiesBanco.dll
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\bin\Debug\netcoreapp3.1\ExercicioPropertiesBanco.pdb
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\obj\Debug\netcoreapp3.1\ExercicioPropertiesBanco.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\obj\Debug\netcoreapp3.1\ExercicioPropertiesBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\obj\Debug\netcoreapp3.1\ExercicioPropertiesBanco.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\obj\Debug\netcoreapp3.1\ExercicioPropertiesBanco.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\obj\Debug\netcoreapp3.1\ExercicioPropertiesBanco.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\obj\Debug\netcoreapp3.1\ExercicioPropertiesBanco.dll
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\obj\Debug\netcoreapp3.1\ExercicioPropertiesBanco.pdb
+C:\Users\Luan Muruk\source\repos\ExercicioPropertiesBanco\ExercicioPropertiesBanco\obj\Debug\netcoreapp3.1\ExercicioPropertiesBanco.genruntimeconfig.cache

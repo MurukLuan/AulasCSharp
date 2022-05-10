@@ -1,0 +1,13 @@
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\bin\Debug\netcoreapp3.1\IntroducaoListas.exe
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\bin\Debug\netcoreapp3.1\IntroducaoListas.deps.json
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\bin\Debug\netcoreapp3.1\IntroducaoListas.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\bin\Debug\netcoreapp3.1\IntroducaoListas.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\bin\Debug\netcoreapp3.1\IntroducaoListas.dll
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\bin\Debug\netcoreapp3.1\IntroducaoListas.pdb
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\obj\Debug\netcoreapp3.1\IntroducaoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\obj\Debug\netcoreapp3.1\IntroducaoListas.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\obj\Debug\netcoreapp3.1\IntroducaoListas.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\obj\Debug\netcoreapp3.1\IntroducaoListas.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\obj\Debug\netcoreapp3.1\IntroducaoListas.dll
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\obj\Debug\netcoreapp3.1\IntroducaoListas.pdb
+C:\Users\Luan Muruk\source\repos\IntroducaoListas\IntroducaoListas\obj\Debug\netcoreapp3.1\IntroducaoListas.genruntimeconfig.cache

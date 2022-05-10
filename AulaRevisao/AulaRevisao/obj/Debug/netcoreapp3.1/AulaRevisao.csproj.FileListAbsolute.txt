@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\bin\Debug\netcoreapp3.1\AulaRevisao.exe
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\bin\Debug\netcoreapp3.1\AulaRevisao.deps.json
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\bin\Debug\netcoreapp3.1\AulaRevisao.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\bin\Debug\netcoreapp3.1\AulaRevisao.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\bin\Debug\netcoreapp3.1\AulaRevisao.dll
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\bin\Debug\netcoreapp3.1\AulaRevisao.pdb
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\obj\Debug\netcoreapp3.1\AulaRevisao.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\obj\Debug\netcoreapp3.1\AulaRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\obj\Debug\netcoreapp3.1\AulaRevisao.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\obj\Debug\netcoreapp3.1\AulaRevisao.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\obj\Debug\netcoreapp3.1\AulaRevisao.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\obj\Debug\netcoreapp3.1\AulaRevisao.dll
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\obj\Debug\netcoreapp3.1\AulaRevisao.pdb
+C:\Users\Luan Muruk\source\repos\AulaRevisao\AulaRevisao\obj\Debug\netcoreapp3.1\AulaRevisao.genruntimeconfig.cache
