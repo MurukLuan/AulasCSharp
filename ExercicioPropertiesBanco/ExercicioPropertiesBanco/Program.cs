@@ -6,41 +6,55 @@ namespace ExercicioPropertiesBanco
     {
         static void Main(string[] args)
         {
-
-            Conta conta = new Conta();
-
-            Console.WriteLine("Entre com o nome: ");
-            string nome = Console.ReadLine();
-            Console.WriteLine("Entre com o numero da agencia: ");
-            int agencia = int.Parse(Console.ReadLine());
-            Console.WriteLine("Entre com o numero da conta: ");
-            int contas = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Tem deposito: ");
-            char opcao = char.Parse(Console.ReadLine());
-
-            if(opcao == 's')
+            char opcao;
+            do
             {
-                Console.WriteLine("Entre com o valor do deposito: ");
-                double valor = double.Parse(Console.ReadLine());
-                conta.Depositar(valor); 
-            }
+                Conta conta = new Conta();
 
-            Console.WriteLine("Quer sacar: ");
-            char opcaoSaque = char.Parse(Console.ReadLine());
+                Console.Write("Entre com o nome do titular da conta: ");
+                conta.Nome = Console.ReadLine();
 
-            if (opcao == 's')
-            {
-                Console.WriteLine("Entre com o valor do saque: ");
-                double valor = double.Parse(Console.ReadLine());
-                conta.Sacar(valor);
-            }
+                Console.Write("Entre com o numero da agencia: ");
+                conta.Agencia = int.Parse(Console.ReadLine());
 
-            Conta c = new Conta(contas, agencia, nome);
+                Console.Write("Entre com o numero da conta: ");
+                conta.NumeroConta = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Nome: " + conta.Nome);
-            Console.WriteLine("Agencia: " + conta.Agencia + " Conta: " + conta.NumeroConta);
-            Console.WriteLine("Saldo disponivel: " + conta.Saldo);
+                Console.Write("Deseja realizar um deposito? (s/n): ");
+                opcao = char.Parse(Console.ReadLine());
+
+                double valor = 0;
+                if (opcao == 's')
+                {
+                    Console.Write("Entre com o valor do deposito: ");
+                    valor = double.Parse(Console.ReadLine());
+                    conta.Depositar(valor);
+                }
+
+                Console.Write("Deseja realizar um saque? (s/n): ");
+                opcao = char.Parse(Console.ReadLine());
+
+                if (opcao == 's')
+                {
+                    Console.Write("Qual o valor que deseja sacar: ");
+                    valor = double.Parse(Console.ReadLine());
+
+                    if (conta.Saldo >= valor)
+                    {
+                        conta.Sacar(valor);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Saldo insuficiente! seu saldo atual é de: " + conta.Saldo);
+                    }
+                }
+
+                Console.WriteLine(conta);
+
+                Console.WriteLine("Deseja realizar outro cadastro? (s/n) ");
+                opcao = char.Parse(Console.ReadLine());
+            } while (opcao == 's');
+
 
         }
     }

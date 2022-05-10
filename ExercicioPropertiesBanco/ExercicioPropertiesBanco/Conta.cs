@@ -11,10 +11,10 @@ namespace ExercicioPropertiesBanco
         public string Nome { get; set; }
         public double Saldo { get; private set; }
 
-        public Conta()
+       public Conta()
         {
-        }
 
+        }
         public Conta(int numeroConta, int agencia, string nome)
         {
             NumeroConta = numeroConta;
@@ -22,14 +22,22 @@ namespace ExercicioPropertiesBanco
             Nome = nome;
         }
 
-        public void Sacar(double valor)
+        public double Sacar(double valor)
         {
-            Saldo = valor - Saldo;
+            return Saldo = Saldo - valor;
         }
 
-        public void Depositar(double valor)
+        public double Depositar(double valor)
         {
-            Saldo = valor + Saldo;
+            return Saldo = Saldo + valor;
+        }
+
+        public override string ToString()
+        {
+            return "Titular da conta: " + Nome
+                + "\nAgencia: " + Agencia
+                + "\nConta: " + NumeroConta
+                + "\nSaldo: " + Saldo.ToString("F2");
         }
 
     }
