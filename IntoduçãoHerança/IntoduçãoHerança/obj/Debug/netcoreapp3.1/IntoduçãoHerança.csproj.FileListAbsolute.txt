@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\bin\Debug\netcoreapp3.1\IntoduçãoHerança.exe
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\bin\Debug\netcoreapp3.1\IntoduçãoHerança.deps.json
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\bin\Debug\netcoreapp3.1\IntoduçãoHerança.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\bin\Debug\netcoreapp3.1\IntoduçãoHerança.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\bin\Debug\netcoreapp3.1\IntoduçãoHerança.dll
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\bin\Debug\netcoreapp3.1\IntoduçãoHerança.pdb
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\obj\Debug\netcoreapp3.1\IntoduçãoHerança.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\obj\Debug\netcoreapp3.1\IntoduçãoHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\obj\Debug\netcoreapp3.1\IntoduçãoHerança.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\obj\Debug\netcoreapp3.1\IntoduçãoHerança.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\obj\Debug\netcoreapp3.1\IntoduçãoHerança.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\obj\Debug\netcoreapp3.1\IntoduçãoHerança.dll
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\obj\Debug\netcoreapp3.1\IntoduçãoHerança.pdb
+C:\Users\Luan Muruk\source\repos\IntoduçãoHerança\IntoduçãoHerança\obj\Debug\netcoreapp3.1\IntoduçãoHerança.genruntimeconfig.cache
