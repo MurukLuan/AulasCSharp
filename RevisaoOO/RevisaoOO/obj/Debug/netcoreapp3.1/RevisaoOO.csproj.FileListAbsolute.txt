@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\bin\Debug\netcoreapp3.1\RevisaoOO.exe
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\bin\Debug\netcoreapp3.1\RevisaoOO.deps.json
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\bin\Debug\netcoreapp3.1\RevisaoOO.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\bin\Debug\netcoreapp3.1\RevisaoOO.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\bin\Debug\netcoreapp3.1\RevisaoOO.dll
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\bin\Debug\netcoreapp3.1\RevisaoOO.pdb
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\obj\Debug\netcoreapp3.1\RevisaoOO.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\obj\Debug\netcoreapp3.1\RevisaoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\obj\Debug\netcoreapp3.1\RevisaoOO.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\obj\Debug\netcoreapp3.1\RevisaoOO.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\obj\Debug\netcoreapp3.1\RevisaoOO.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\obj\Debug\netcoreapp3.1\RevisaoOO.dll
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\obj\Debug\netcoreapp3.1\RevisaoOO.pdb
+C:\Users\Luan Muruk\source\repos\RevisaoOO\RevisaoOO\obj\Debug\netcoreapp3.1\RevisaoOO.genruntimeconfig.cache
