@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luan Muruk\\source\\repos\\IntroducaoListas\\IntroducaoListas\\IntroducaoListas.csproj": {}
+    "C:\\Users\\Luan Muruk\\source\\repos\\AulaRevisao-13-05-2022\\AulaRevisao-13-05-2022\\AulaRevisao-13-05-2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luan Muruk\\source\\repos\\IntroducaoListas\\IntroducaoListas\\IntroducaoListas.csproj": {
+    "C:\\Users\\Luan Muruk\\source\\repos\\AulaRevisao-13-05-2022\\AulaRevisao-13-05-2022\\AulaRevisao-13-05-2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luan Muruk\\source\\repos\\IntroducaoListas\\IntroducaoListas\\IntroducaoListas.csproj",
-        "projectName": "IntroducaoListas",
-        "projectPath": "C:\\Users\\Luan Muruk\\source\\repos\\IntroducaoListas\\IntroducaoListas\\IntroducaoListas.csproj",
+        "projectUniqueName": "C:\\Users\\Luan Muruk\\source\\repos\\AulaRevisao-13-05-2022\\AulaRevisao-13-05-2022\\AulaRevisao-13-05-2022.csproj",
+        "projectName": "AulaRevisao-13-05-2022",
+        "projectPath": "C:\\Users\\Luan Muruk\\source\\repos\\AulaRevisao-13-05-2022\\AulaRevisao-13-05-2022\\AulaRevisao-13-05-2022.csproj",
         "packagesPath": "C:\\Users\\Luan Muruk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luan Muruk\\source\\repos\\IntroducaoListas\\IntroducaoListas\\obj\\",
+        "outputPath": "C:\\Users\\Luan Muruk\\source\\repos\\AulaRevisao-13-05-2022\\AulaRevisao-13-05-2022\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

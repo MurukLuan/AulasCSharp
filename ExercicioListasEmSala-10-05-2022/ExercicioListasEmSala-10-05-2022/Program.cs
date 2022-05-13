@@ -50,8 +50,12 @@ namespace ExercicioListasEmSala_10_05_2022
             if (func.Exists(x => x.Departamento == "rh"))
             {
                 foreach(Funcionario obj in func)
-                {                    
-                    contador++;
+                {         
+                    if(obj.Departamento == "rh")
+                    {
+                        contador++;
+                    }
+                    
                 }
                 Console.WriteLine(contador);
             }

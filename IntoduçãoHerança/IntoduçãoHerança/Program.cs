@@ -6,7 +6,7 @@ namespace IntoduçãoHerança
     {
         static void Main(string[] args)
         {
-            /*Conta conta = new Conta(1425, "Luan Muruk");
+            Conta conta = new Conta(1425, "Luan Muruk");
             ContaPoupanca poupanca = new ContaPoupanca("Luan Tonaco", 1426, 25.00);
 
             Console.WriteLine(poupanca.Saldo);
@@ -19,7 +19,7 @@ namespace IntoduçãoHerança
              poupanca.Depositar(valor + poupanca.Rendimento);
 
              Console.WriteLine(poupanca.Saldo);
-             Console.WriteLine(conta.Saldo);*/
+             Console.WriteLine(conta.Saldo);
 
             /*Pedido pedido = new Pedido()
             {
