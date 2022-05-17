@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\bin\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.exe
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\bin\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.deps.json
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\bin\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\bin\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\bin\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.dll
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\bin\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.pdb
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\obj\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\obj\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\obj\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\obj\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\obj\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\obj\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.dll
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\obj\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.pdb
+C:\Users\Luan Muruk\source\repos\AtividadeEnumsCorrigida\AtividadeEnumsCorrigida\obj\Debug\netcoreapp3.1\AtividadeEnumsCorrigida.genruntimeconfig.cache
