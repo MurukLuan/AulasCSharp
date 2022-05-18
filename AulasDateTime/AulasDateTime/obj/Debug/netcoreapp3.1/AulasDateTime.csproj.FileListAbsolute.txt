@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\bin\Debug\netcoreapp3.1\AulasDateTime.exe
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\bin\Debug\netcoreapp3.1\AulasDateTime.deps.json
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\bin\Debug\netcoreapp3.1\AulasDateTime.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\bin\Debug\netcoreapp3.1\AulasDateTime.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\bin\Debug\netcoreapp3.1\AulasDateTime.dll
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\bin\Debug\netcoreapp3.1\AulasDateTime.pdb
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\obj\Debug\netcoreapp3.1\AulasDateTime.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\obj\Debug\netcoreapp3.1\AulasDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\obj\Debug\netcoreapp3.1\AulasDateTime.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\obj\Debug\netcoreapp3.1\AulasDateTime.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\obj\Debug\netcoreapp3.1\AulasDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\obj\Debug\netcoreapp3.1\AulasDateTime.dll
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\obj\Debug\netcoreapp3.1\AulasDateTime.pdb
+C:\Users\Luan Muruk\source\repos\AulasDateTime\AulasDateTime\obj\Debug\netcoreapp3.1\AulasDateTime.genruntimeconfig.cache

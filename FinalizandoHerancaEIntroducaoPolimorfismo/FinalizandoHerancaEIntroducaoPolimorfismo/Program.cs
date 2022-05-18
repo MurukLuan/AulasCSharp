@@ -10,8 +10,9 @@ namespace FinalizandoHerancaEIntroducaoPolimorfismo
             Conta conta = new Conta(1245, "Luan", 200.56);
             ContaPlatinum platinum1 = new ContaPlatinum(12456, "Jose", 1000.00, 500.00);
             ContaPoupanca cp = new ContaPoupanca(5412, "Rodrigo", 25000.00, 0.05);
+            Conta cc = new Conta();
 
-            conta.Sacar(100.00);
+            /*conta.Sacar(100.00);
             Console.WriteLine(conta.Saldo);
 
             cp.Sacar(24900.00);
