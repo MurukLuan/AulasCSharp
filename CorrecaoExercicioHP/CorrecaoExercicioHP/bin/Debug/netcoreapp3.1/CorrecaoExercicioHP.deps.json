@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CorrecaoExercicioHP/1.0.0": {
+        "runtime": {
+          "CorrecaoExercicioHP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CorrecaoExercicioHP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\bin\Debug\netcoreapp3.1\CorrecaoExercicioHP.exe
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\bin\Debug\netcoreapp3.1\CorrecaoExercicioHP.deps.json
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\bin\Debug\netcoreapp3.1\CorrecaoExercicioHP.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\bin\Debug\netcoreapp3.1\CorrecaoExercicioHP.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\bin\Debug\netcoreapp3.1\CorrecaoExercicioHP.dll
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\bin\Debug\netcoreapp3.1\CorrecaoExercicioHP.pdb
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\obj\Debug\netcoreapp3.1\CorrecaoExercicioHP.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\obj\Debug\netcoreapp3.1\CorrecaoExercicioHP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\obj\Debug\netcoreapp3.1\CorrecaoExercicioHP.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\obj\Debug\netcoreapp3.1\CorrecaoExercicioHP.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\obj\Debug\netcoreapp3.1\CorrecaoExercicioHP.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\obj\Debug\netcoreapp3.1\CorrecaoExercicioHP.dll
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\obj\Debug\netcoreapp3.1\CorrecaoExercicioHP.pdb
+C:\Users\Luan Muruk\source\repos\CorrecaoExercicioHP\CorrecaoExercicioHP\obj\Debug\netcoreapp3.1\CorrecaoExercicioHP.genruntimeconfig.cache

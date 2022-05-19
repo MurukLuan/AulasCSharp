@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\bin\Debug\netcoreapp3.1\OperacoesComDatasETempo.exe
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\bin\Debug\netcoreapp3.1\OperacoesComDatasETempo.deps.json
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\bin\Debug\netcoreapp3.1\OperacoesComDatasETempo.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\bin\Debug\netcoreapp3.1\OperacoesComDatasETempo.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\bin\Debug\netcoreapp3.1\OperacoesComDatasETempo.dll
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\bin\Debug\netcoreapp3.1\OperacoesComDatasETempo.pdb
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\obj\Debug\netcoreapp3.1\OperacoesComDatasETempo.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\obj\Debug\netcoreapp3.1\OperacoesComDatasETempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\obj\Debug\netcoreapp3.1\OperacoesComDatasETempo.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\obj\Debug\netcoreapp3.1\OperacoesComDatasETempo.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\obj\Debug\netcoreapp3.1\OperacoesComDatasETempo.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\obj\Debug\netcoreapp3.1\OperacoesComDatasETempo.dll
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\obj\Debug\netcoreapp3.1\OperacoesComDatasETempo.pdb
+C:\Users\Luan Muruk\source\repos\OperacoesComDatasETempo\OperacoesComDatasETempo\obj\Debug\netcoreapp3.1\OperacoesComDatasETempo.genruntimeconfig.cache
