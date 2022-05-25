@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\netcoreapp3.1\IntroducaoDelegates.exe
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\netcoreapp3.1\IntroducaoDelegates.deps.json
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\netcoreapp3.1\IntroducaoDelegates.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\netcoreapp3.1\IntroducaoDelegates.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\netcoreapp3.1\IntroducaoDelegates.dll
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\netcoreapp3.1\IntroducaoDelegates.pdb
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\netcoreapp3.1\IntroducaoDelegates.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\netcoreapp3.1\IntroducaoDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\netcoreapp3.1\IntroducaoDelegates.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\netcoreapp3.1\IntroducaoDelegates.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\netcoreapp3.1\IntroducaoDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\netcoreapp3.1\IntroducaoDelegates.dll
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\netcoreapp3.1\IntroducaoDelegates.pdb
+C:\Users\Luan Muruk\source\repos\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\netcoreapp3.1\IntroducaoDelegates.genruntimeconfig.cache
