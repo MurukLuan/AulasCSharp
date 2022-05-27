@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\bin\Debug\netcoreapp3.1\IntroducaoInterface.exe
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\bin\Debug\netcoreapp3.1\IntroducaoInterface.deps.json
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\bin\Debug\netcoreapp3.1\IntroducaoInterface.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\bin\Debug\netcoreapp3.1\IntroducaoInterface.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\bin\Debug\netcoreapp3.1\IntroducaoInterface.dll
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\bin\Debug\netcoreapp3.1\IntroducaoInterface.pdb
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\obj\Debug\netcoreapp3.1\IntroducaoInterface.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\obj\Debug\netcoreapp3.1\IntroducaoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\obj\Debug\netcoreapp3.1\IntroducaoInterface.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\obj\Debug\netcoreapp3.1\IntroducaoInterface.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\obj\Debug\netcoreapp3.1\IntroducaoInterface.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\obj\Debug\netcoreapp3.1\IntroducaoInterface.dll
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\obj\Debug\netcoreapp3.1\IntroducaoInterface.pdb
+C:\Users\Luan Muruk\source\repos\IntroducaoInterface\IntroducaoInterface\obj\Debug\netcoreapp3.1\IntroducaoInterface.genruntimeconfig.cache

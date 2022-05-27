@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\bin\Debug\netcoreapp3.1\ThreadTaskInterface.exe
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\bin\Debug\netcoreapp3.1\ThreadTaskInterface.deps.json
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\bin\Debug\netcoreapp3.1\ThreadTaskInterface.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\bin\Debug\netcoreapp3.1\ThreadTaskInterface.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\bin\Debug\netcoreapp3.1\ThreadTaskInterface.dll
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\bin\Debug\netcoreapp3.1\ThreadTaskInterface.pdb
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\obj\Debug\netcoreapp3.1\ThreadTaskInterface.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\obj\Debug\netcoreapp3.1\ThreadTaskInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\obj\Debug\netcoreapp3.1\ThreadTaskInterface.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\obj\Debug\netcoreapp3.1\ThreadTaskInterface.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\obj\Debug\netcoreapp3.1\ThreadTaskInterface.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\obj\Debug\netcoreapp3.1\ThreadTaskInterface.dll
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\obj\Debug\netcoreapp3.1\ThreadTaskInterface.pdb
+C:\Users\Luan Muruk\source\repos\ThreadTaskInterface\ThreadTaskInterface\obj\Debug\netcoreapp3.1\ThreadTaskInterface.genruntimeconfig.cache
