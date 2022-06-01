@@ -1,0 +1,14 @@
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\obj\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\obj\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\obj\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\obj\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.AssemblyInfo.cs
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\obj\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\bin\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.exe
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\bin\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.deps.json
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\bin\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.runtimeconfig.json
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\bin\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.runtimeconfig.dev.json
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\bin\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.dll
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\bin\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.pdb
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\obj\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.dll
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\obj\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.pdb
+C:\Users\Luan Muruk\source\repos\InterfaceExplicacaoSimples\InterfaceExplicacaoSimples\obj\Debug\netcoreapp3.1\InterfaceExplicacaoSimples.genruntimeconfig.cache
