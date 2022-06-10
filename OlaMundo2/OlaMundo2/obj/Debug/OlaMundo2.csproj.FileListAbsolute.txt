@@ -1,0 +1,10 @@
+C:\Users\Luan Muruk\source\repos\OlaMundo2\OlaMundo2\bin\Debug\OlaMundo2.exe.config
+C:\Users\Luan Muruk\source\repos\OlaMundo2\OlaMundo2\bin\Debug\OlaMundo2.exe
+C:\Users\Luan Muruk\source\repos\OlaMundo2\OlaMundo2\bin\Debug\OlaMundo2.pdb
+C:\Users\Luan Muruk\source\repos\OlaMundo2\OlaMundo2\obj\Debug\OlaMundo2.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\OlaMundo2\OlaMundo2\obj\Debug\OlaMundo2.Form1.resources
+C:\Users\Luan Muruk\source\repos\OlaMundo2\OlaMundo2\obj\Debug\OlaMundo2.Properties.Resources.resources
+C:\Users\Luan Muruk\source\repos\OlaMundo2\OlaMundo2\obj\Debug\OlaMundo2.csproj.GenerateResource.cache
+C:\Users\Luan Muruk\source\repos\OlaMundo2\OlaMundo2\obj\Debug\OlaMundo2.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\OlaMundo2\OlaMundo2\obj\Debug\OlaMundo2.exe
+C:\Users\Luan Muruk\source\repos\OlaMundo2\OlaMundo2\obj\Debug\OlaMundo2.pdb

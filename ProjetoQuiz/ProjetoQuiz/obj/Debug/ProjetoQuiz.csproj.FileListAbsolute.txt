@@ -1,0 +1,10 @@
+C:\Users\Luan Muruk\source\repos\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe.config
+C:\Users\Luan Muruk\source\repos\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe
+C:\Users\Luan Muruk\source\repos\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.pdb
+C:\Users\Luan Muruk\source\repos\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.AtividadeQuiz.resources
+C:\Users\Luan Muruk\source\repos\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Properties.Resources.resources
+C:\Users\Luan Muruk\source\repos\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.GenerateResource.cache
+C:\Users\Luan Muruk\source\repos\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.exe
+C:\Users\Luan Muruk\source\repos\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.pdb
