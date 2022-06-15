@@ -1,0 +1,10 @@
+C:\Users\Luan Muruk\source\repos\CadastroClienteSemCrud\CadastroClienteSemCrud\bin\Debug\CadastroClienteSemCrud.exe.config
+C:\Users\Luan Muruk\source\repos\CadastroClienteSemCrud\CadastroClienteSemCrud\bin\Debug\CadastroClienteSemCrud.exe
+C:\Users\Luan Muruk\source\repos\CadastroClienteSemCrud\CadastroClienteSemCrud\bin\Debug\CadastroClienteSemCrud.pdb
+C:\Users\Luan Muruk\source\repos\CadastroClienteSemCrud\CadastroClienteSemCrud\obj\Debug\CadastroClienteSemCrud.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\CadastroClienteSemCrud\CadastroClienteSemCrud\obj\Debug\CadastroClienteSemCrud.Form1.resources
+C:\Users\Luan Muruk\source\repos\CadastroClienteSemCrud\CadastroClienteSemCrud\obj\Debug\CadastroClienteSemCrud.Properties.Resources.resources
+C:\Users\Luan Muruk\source\repos\CadastroClienteSemCrud\CadastroClienteSemCrud\obj\Debug\CadastroClienteSemCrud.csproj.GenerateResource.cache
+C:\Users\Luan Muruk\source\repos\CadastroClienteSemCrud\CadastroClienteSemCrud\obj\Debug\CadastroClienteSemCrud.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\CadastroClienteSemCrud\CadastroClienteSemCrud\obj\Debug\CadastroClienteSemCrud.exe
+C:\Users\Luan Muruk\source\repos\CadastroClienteSemCrud\CadastroClienteSemCrud\obj\Debug\CadastroClienteSemCrud.pdb
