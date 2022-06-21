@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
 C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe
 C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\bin\Debug\OlaMundo.pdb
@@ -8,3 +9,15 @@ C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.Gen
 C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.CoreCompileInputs.cache
 C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
 C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb
+=======
+C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
+C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe
+C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\bin\Debug\OlaMundo.pdb
+C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Form1.resources
+C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Properties.Resources.resources
+C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.GenerateResource.cache
+C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
+C:\Users\Luan Muruk\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb
+>>>>>>> 64b6159dd6f7bbe03106492c82cefb0e774ba4f8
