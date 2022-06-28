@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tMSA3XEIog7vFpVSlxv3e99s0eKHfnCtDFEeuriXnLJMxmq7jGRMymLd9akxOJcCW70Uj1bgZb1Hem2YrxZN0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luan Muruk\\source\\repos\\HelloWordEmWPF\\HelloWordEmWPF\\HelloWordEmWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luan Muruk\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",
+    "C:\\Users\\Luan Muruk\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

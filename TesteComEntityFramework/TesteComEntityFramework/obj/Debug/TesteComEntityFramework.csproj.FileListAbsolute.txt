@@ -1,0 +1,15 @@
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\bin\Debug\TesteComEntityFramework.exe.config
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\bin\Debug\TesteComEntityFramework.exe
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\bin\Debug\TesteComEntityFramework.pdb
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\obj\Debug\TesteComEntityFramework.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\obj\Debug\TesteComEntityFramework.Form1.resources
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\obj\Debug\TesteComEntityFramework.Properties.Resources.resources
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\obj\Debug\TesteComEntityFramework.csproj.GenerateResource.cache
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\obj\Debug\TesteComEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\obj\Debug\TesteComEntityFramework.csproj.CopyComplete
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\obj\Debug\TesteComEntityFramework.exe
+C:\Users\Luan Muruk\source\repos\TesteComEntityFramework\TesteComEntityFramework\obj\Debug\TesteComEntityFramework.pdb

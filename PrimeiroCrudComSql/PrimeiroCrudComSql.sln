@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroCrudComSql", "PrimeiroCrudComSql\PrimeiroCrudComSql.csproj", "{8FA9C8C3-0EA3-46BA-B16A-D9245BE9A61C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA9C8C3-0EA3-46BA-B16A-D9245BE9A61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA9C8C3-0EA3-46BA-B16A-D9245BE9A61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA9C8C3-0EA3-46BA-B16A-D9245BE9A61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA9C8C3-0EA3-46BA-B16A-D9245BE9A61C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FFE1B06-3AF2-4535-8A23-DE0E71769371}
+	EndGlobalSection
+EndGlobal

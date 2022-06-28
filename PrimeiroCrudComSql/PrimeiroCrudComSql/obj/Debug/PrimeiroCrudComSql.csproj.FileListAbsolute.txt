@@ -1,0 +1,10 @@
+C:\Users\Luan Muruk\source\repos\PrimeiroCrudComSql\PrimeiroCrudComSql\bin\Debug\PrimeiroCrudComSql.exe.config
+C:\Users\Luan Muruk\source\repos\PrimeiroCrudComSql\PrimeiroCrudComSql\bin\Debug\PrimeiroCrudComSql.exe
+C:\Users\Luan Muruk\source\repos\PrimeiroCrudComSql\PrimeiroCrudComSql\bin\Debug\PrimeiroCrudComSql.pdb
+C:\Users\Luan Muruk\source\repos\PrimeiroCrudComSql\PrimeiroCrudComSql\obj\Debug\PrimeiroCrudComSql.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\source\repos\PrimeiroCrudComSql\PrimeiroCrudComSql\obj\Debug\PrimeiroCrudComSql.Form1.resources
+C:\Users\Luan Muruk\source\repos\PrimeiroCrudComSql\PrimeiroCrudComSql\obj\Debug\PrimeiroCrudComSql.Properties.Resources.resources
+C:\Users\Luan Muruk\source\repos\PrimeiroCrudComSql\PrimeiroCrudComSql\obj\Debug\PrimeiroCrudComSql.csproj.GenerateResource.cache
+C:\Users\Luan Muruk\source\repos\PrimeiroCrudComSql\PrimeiroCrudComSql\obj\Debug\PrimeiroCrudComSql.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\source\repos\PrimeiroCrudComSql\PrimeiroCrudComSql\obj\Debug\PrimeiroCrudComSql.exe
+C:\Users\Luan Muruk\source\repos\PrimeiroCrudComSql\PrimeiroCrudComSql\obj\Debug\PrimeiroCrudComSql.pdb
